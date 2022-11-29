@@ -1,2 +1,7 @@
 PySimpleGUI==4.60.4
 pytube==12.1.0
+
+Instalar estas 2 dependecias no PIP
+
+pip install pySimpleGUI
+pip install pytube
